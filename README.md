@@ -2,6 +2,15 @@
 
 hello hi
 
+
 ![PHOTOS](SDLC/simple.png)
 
-![PHOTOS](SDLC/image.png)
+
+
+# SDLC Agile For Beginner Certifcate
+
+
+
+<img src="./agile/image.png">
+
+
