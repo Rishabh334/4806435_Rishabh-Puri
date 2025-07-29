@@ -10,7 +10,6 @@ hello hi
 # SDLC Agile For Beginner Certifcate
 
 
-
-<img src="./agile/image.png">
+![PHOTOS](Agile/image.png)
 
 
