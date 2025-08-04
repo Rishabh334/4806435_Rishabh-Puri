@@ -1,8 +1,8 @@
+
 #include<stdio.h>
 int main(){
     int day;
-    printf("Enter any day between 1 to 7: ");
-   
+    printf("Enter Any day between 1 to 7: ");
     scanf("%d", &day);
 
     switch (day){
@@ -20,8 +20,7 @@ int main(){
                 break;
         case 7: printf("Sunday\n");
                 break;
-        default: printf("Enter Correct choice\n");
-    }
-
-    return 0 ;
+        default: printf("Oops! E you have enter wrong day\n");
+    
+     }
 }
